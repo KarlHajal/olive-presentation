@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>Olive</title>
+  <path d="M36 30C41 20 46 13 54 8" fill="none" stroke="#555b2f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M42 23C30 23 26 14 27 6C39 6 45 12 42 23Z" fill="#6e8646"/>
+  <ellipse cx="29" cy="40" rx="18" ry="23" transform="rotate(35 29 40)" fill="#79833d"/>
+  <ellipse cx="23" cy="34" rx="6" ry="11" transform="rotate(35 23 34)" fill="#a3ac63"/>
+</svg>
